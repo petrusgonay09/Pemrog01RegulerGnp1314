@@ -1,0 +1,12 @@
+//Belajar Git dengan melakukan push pada github
+//Belajar: Mengirim data ke GitHub
+//Menampilkan Biodata Pribadi
+//Perintah yang dua
+
+Nama : Petrus Gonay
+NIM : 4512212042
+Alamat : Depok
+Tempat Lahir : Jayapura
+Hobby : Sepak Bola
+Email di Github : petrusgonay09
+Email connect : petrusgonay@gmailcom/perthgny@yahoo.com

@@ -1,0 +1,6 @@
+SESI 2:
+
+1. Belajar GitHub
+2. Belaar Membuat Akun GitHub
+3. Belajar cara mengirim Data KeGitHub, dll.
+4. Belajar Anatomi Aplikasi java & Classpath

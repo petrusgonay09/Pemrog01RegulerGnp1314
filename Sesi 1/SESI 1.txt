@@ -1,0 +1,4 @@
+SESI 1:
+
+1. Belajar Pengertain Java
+2. Setup/Cara mengintal Java atau JDK, dll.

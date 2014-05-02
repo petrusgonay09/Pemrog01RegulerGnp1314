@@ -1,0 +1,7 @@
+//LATIHAN REPOSITORY dan GIT
+//Petrus : BelajarGit.txt
+//Perintah yang Pertama
+
+Latihan GIT
+Dengan memasukan file dalam bentukt .xt
+created By : petrusgonay09
