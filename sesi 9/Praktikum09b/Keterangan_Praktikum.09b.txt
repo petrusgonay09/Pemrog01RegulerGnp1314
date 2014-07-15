@@ -1,0 +1,37 @@
+Senin, 26 Mei 2014
+==================================
+Materi: INHERITACE & ENCAPSULATION
+==================================
+
+Contoh 2:--->contoh 1 sudah di kerjakan pd pertemuan sebelumnya(Kamis, 22 Mei 2014)
+1. Kucing.java-->Super kelas
+2. KucingMakan.java-->sub kelas
+3. JmlAnakKucing.java-->sub kelas
+4. TesKucing.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+====================================================================
+Contoh 3:
+1. SukuInd.java-->Super kelas
+2. Sunda.java-->sub kelas
+3. Sumba.java-->sub kelas
+4. Batak.java-->sub kelas
+5. Jawa.java-->sub kelas
+6. TesSuku.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+==================================================================
+Contoh 4:
+1. Pajak.java-->Super kelas
+2. PajakProp.java-->sub kelas
+3. PajakApply.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+=====================================================================
+Contoh 5:
+1. Mobil.java-->Super kelas
+2. Jeep.java-->sub kelas
+3. MobilApply.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+=====================================================================
+Contoh 6:
+1. Orang.java-->Super kelas
+2. Dosen.java-->sub kelas
+3. Mahasiswa.java-->sub kelas
+4. KuliahApply.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+======================================================================
+KEt.
+SUDAH SELESAI, TINGGAL DI PUSH(kirim keGitHub)....!!
