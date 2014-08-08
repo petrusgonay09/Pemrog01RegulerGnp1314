@@ -1,0 +1,30 @@
+KAMIS, 12 jUNI 2014
+==================================
+Materi: POLYMORPHISM
+==================================
+
+Contoh :
+1. IndukKelas.java-->Super kelas
+2. AnakKelas.java-->sub kelas
+3. TesOverriding.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+====================================================================
+Contoh 2:
+1. Bentuk.java-->Super kelas
+2. Segi4.java-->sub kelas
+3. Segi3.java-->sub kelas
+4. Lingkaran.java-->sub kelas
+5. TesOverriding2.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+==================================================================
+Contoh 3:
+1. KomunitasPT.java-->Super kelas
+2. Karyawan.java-->sub kelas
+3. TesOverriding3.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+=====================================================================
+Contoh 4:
+1. KomunitasPT2.java-->Super kelas
+2. Karyawan2.java-->sub kelas
+3. TesOverriding4.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+=====================================================================
+Contoh 5:
+Tabung.java-->Langsung menampilkan menampilkan hasil(OUTPUT)
+======================================================================
