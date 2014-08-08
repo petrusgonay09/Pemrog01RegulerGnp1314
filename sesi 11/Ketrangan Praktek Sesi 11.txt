@@ -1,0 +1,12 @@
+KAMIS, 05 jUNI 2014
+==================================
+Materi: INTERFACE
+==================================
+
+Contoh 1:
+1. Kontrol.java-->Super kelas
+2. TV01.java-->sub kelas
+3. TV02.java-->sub kelas
+4. Remote.java
+5. User.java-->kelas demo/kelas untuk menampilkan hasil(OUTPUT)
+====================================================================
